@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Delivery guidance</span><h2>Every initiative needs a defined pillar, partner group, delivery milestone and accountable owner</h2><p>Regional teams can coordinate people, prosperity and security initiatives while tracking cross-border dependencies and evidence.</p></section></template>
